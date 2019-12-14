@@ -1,0 +1,7 @@
+[Example]
+    example="examplevalue1"
+    asdf="1234"
+
+[Types]
+    string="test"
+    integer=32
